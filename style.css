@@ -1284,6 +1284,7 @@ button {
   }
   .info-image {
     justify-content: end;
+    height: 400px;
   }
   /* .feature-info-section {
     padding: 20px 0;
