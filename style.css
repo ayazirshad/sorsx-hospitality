@@ -1001,6 +1001,13 @@ button {
     gap: 60px;
   }
 
+  .hospitality-hero .hero-image-wrapper {
+  height: auto;
+  width: auto;
+  /* width: 100%; */
+  /* max-width: 715px; */
+}
+
   .hero-content {
     text-align: center;
   }
@@ -1773,6 +1780,7 @@ button {
   .mega-menu-item {
     gap: 8px;
   }
+  
 }
 
 .dropdown-menu.mega-menu .mega-menu-item:hover {
